@@ -28,39 +28,12 @@ I came up through the MERN stack, shipped real projects, and I'm now expanding i
 
 ### 🧰 Tech Stack
 
-**Frontend**
-
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vue,react,js,ts,html,css,bootstrap,next,tailwind&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=vue,react,js,ts,html,css,bootstrap,next,mongodb,mysql,nodejs,express,adonis,tailwind,git,github,postman,vscode&theme=dark" />
   </a>
 </p>
 
-**Backend**
-
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,adonis&theme=dark" />
-  </a>
-</p>
-
-**Database**
-
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
-  </a>
-</p>
-
-**Tools**
-
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark" />
-  </a>
-</p>
-
----
 
 ### 📊 GitHub Stats
 
