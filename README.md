@@ -39,11 +39,15 @@ I came up through the MERN stack, shipped real projects, and I'm now expanding i
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
+
 **Backend**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Adonis.js](https://img.shields.io/badge/Adonis.js-220052?style=flat-square&logo=adonisjs&logoColor=white)
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="256" height="256" rx="60" fill="#5A45FE"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M46.6167 160.689L89.4607 63.3167C96.6936 46.9026 110.604 38 128.131 38C145.658 38 159.568 46.9026 166.802 63.3167L209.646 160.689C211.593 165.419 213.262 171.539 213.262 176.825C213.262 201.029 196.291 218 172.087 218C163.844 218 157.294 215.896 150.668 213.766C143.877 211.584 137.002 209.375 128.131 209.375C119.363 209.375 112.315 211.606 105.39 213.797C98.6925 215.916 92.1062 218 84.1743 218C59.9706 218 43 201.029 43 176.825C43 171.539 44.6692 165.419 46.6167 160.689ZM128.131 80.2881L85.8439 175.991C98.3632 170.148 112.83 167.366 128.131 167.366C142.876 167.366 157.899 170.148 169.862 175.991L128.131 80.2881Z" fill="white"/>
+</svg>
 
 **Database**
 
