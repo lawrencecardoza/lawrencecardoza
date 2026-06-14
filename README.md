@@ -35,15 +35,6 @@ I came up through the MERN stack, shipped real projects, and I'm now expanding i
 </p>
 
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=lawrencecardoza&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lawrencecardoza&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-
-</div>
-
 <div align="center">
   <sub>Open to full-time roles & collaborations · DM me on <a href="https://linkedin.com/in/lawrencecardoza">LinkedIn</a></sub>
 </div>
