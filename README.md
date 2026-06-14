@@ -32,7 +32,7 @@ I came up through the MERN stack, shipped real projects, and I'm now expanding i
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vue,react,js,ts,html,css,bootstrap,tailwind&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=vue,react,js,ts,html,css,bootstrap,next,tailwind&theme=dark" />
   </a>
 </p>
 
