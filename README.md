@@ -44,18 +44,6 @@ I came up through the MERN stack, shipped real projects, and I'm now expanding i
 
 </div>
 
----
-
-### 📌 Pinned Work
-
-| Project | Stack | Live |
-|---|---|---|
-| [Task Manager](https://github.com/lawrencecardoza/task-manager) | Node.js · Express · PostgreSQL | [🔗 Live](https://your-live-link.com) |
-| [Job Next](https://github.com/lawrencecardoza/job-next) | JavaScript | WIP |
-| [Pig Name](https://github.com/lawrencecardoza/Pig-Name) | JavaScript | WIP|
-
----
-
 <div align="center">
   <sub>Open to full-time roles & collaborations · DM me on <a href="https://linkedin.com/in/lawrencecardoza">LinkedIn</a></sub>
 </div>
