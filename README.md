@@ -28,7 +28,7 @@ I came up through the MERN stack, shipped real projects, and I'm now expanding i
 
 ### 🧰 Tech Stack
 
-<p>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vue,react,js,ts,html,css,bootstrap,next,mongodb,mysql,nodejs,express,adonis,tailwind,git,github,postman,vscode&theme=dark" />
   </a>
