@@ -17,7 +17,7 @@
 
 I'm a full-stack developer from **Surat, India** — currently interning at **WebLedger**, where I work with Vue.js, Adonis.js, TypeScript, and MySQL.
 
-I came up through the MERN stack, shipped real projects, and I'm now expanding into typed, structured backend systems. I care about writing code that actually works in production — not just in tutorials.
+I came up through the MERN stack, shipped real projects, and I'm now expanding into typed, structured backend systems. I care about writing code that actually works in production.
 
 - 🏢 Currently: Full-Stack Intern @ **WebLedger**
 - 🛠️ Stack: **Vue.js · React · Node.js · Adonis.js · TypeScript · MySQL · MongoDB**
