@@ -28,8 +28,8 @@ I came up through the MERN stack, shipped real projects, and I'm now expanding i
 
 
 <p align="center">
-### 🧰 Tech Stack
   <a href="https://skillicons.dev">
+### 🧰 Tech Stack
     <img src="https://skillicons.dev/icons?i=vue,react,js,ts,html,css,bootstrap,next,mongodb,mysql,nodejs,express,adonis,tailwind,git,github,postman,vscode&theme=dark" />
   </a>
 </p>
