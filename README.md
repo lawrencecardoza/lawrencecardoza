@@ -42,7 +42,7 @@ A role-based task management system with JWT authentication, dual-database suppo
 `React` `Node.js` `Express` `MongoDB` `JWT` `Render` `Vercel`
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://task-manager-frontend-pearl-phi.vercel.app/)
-[![GitHub](https://img.shields.io/badge/Source_Code-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/lawrencecardoza)
+[![GitHub](https://img.shields.io/badge/Source_Code-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/lawrencecardoza/task-manager)
 
 ---
 
