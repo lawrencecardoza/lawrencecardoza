@@ -1,6 +1,6 @@
 <div align="center">
 
-Hey, I'm Lawrence Cardoza 👋
+**<h1>Hey, I'm Lawrence Cardoza👋</h1>**
 
 **Full-Stack Developer · MERN Stack**
 
