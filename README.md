@@ -1,8 +1,8 @@
 <div align="center">
 
-# Lawrence Cardoza 
+Hey, I'm Lawrence Cardoza 👋
 
-**Full-Stack Developer · MERN Stack · TypeScript · MySQL**
+**Full-Stack Developer · MERN Stack**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lawrence-cardoza-88484a299/)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lawrencecardoza)
@@ -16,10 +16,10 @@
 
 I'm a full-stack developer based in **Surat, Gujarat, India**, focused on building scalable web applications with clean, maintainable code.
 
-My core stack is **MERN**, and I've been expanding into typed backend systems using **TypeScript**, **MySQL**, and **AdonisJS**. I care about writing code that holds up in production — not just in tutorials.
+My core stack is **MERN**, and I've been expanding into typed backend systems. I care about writing code that holds up in production.
 
 - 🔍 Open to **full-time** entry-level developer roles
-- 🛠️ Currently deepening: **Node.js · TypeScript · System Design**
+- 🛠️ Currently deepening: **Node.js · TypeScript · Express.js**
 - 📍 Based in **Surat, Gujarat, India**
 
 ---
@@ -37,7 +37,7 @@ My core stack is **MERN**, and I've been expanding into typed backend systems us
 ### Projects
 
 #### 🗂️ Task Manager — Full-Stack MERN App
-A role-based task management system with JWT authentication, dual-database support (MongoDB + PostgreSQL), and a clean REST API.
+A role-based task management system with JWT authentication, dual-database support (MongoDB), and a clean REST API.
 
 `React` `Node.js` `Express` `MongoDB` `JWT` `Render` `Vercel`
 
