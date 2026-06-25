@@ -1,7 +1,7 @@
-# Hey, I'm Lawrence Cardoza 👋
-
+<!-- Header -->
 <div align="center">
-  <p><em>Full-Stack Developer · MERN Stack · Always Building Something</em></p>
+  <h1>Hey, I'm Lawrence Cardoza 👋</h1>
+  <p><em>Full-Stack Developer · MERN Stack Always Building Something</em></p>
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lawrence-cardoza-88484a299/)
   [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lawrencecardoza)
@@ -33,5 +33,4 @@ I came up through the MERN stack, shipped real projects, and I'm now expanding i
 
 <div align="center">
   <sub>Open to full-time roles & collaborations · DM me on <a href="mailto:iamlawrencecardoza@gmail.com">Gmail</a> or <a href="https://www.linkedin.com/in/lawrence-cardoza-88484a299/">LinkedIn</a></sub>
-</div>ef="https://linkedin.com/in/lawrencecardoza">LinkedIn</a></sub>
 </div>
