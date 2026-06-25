@@ -46,7 +46,7 @@ A role-based task management system with JWT authentication, dual-database suppo
 
 ---
 
-### GitHub Stats
+### GitHub Status
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lawrencecardoza&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="160" />
