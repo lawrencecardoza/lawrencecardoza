@@ -28,7 +28,7 @@ My core stack is **MERN**, and I've been expanding into typed backend systems. I
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,bootstrap,tailwind,nodejs,express,mongodb,mysql,git,github,postman,render,vercel,vscode&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=react,js,tailwind,nodejs,express,mongodb,git,postman&theme=dark" />
   </a>
 </p>
 
