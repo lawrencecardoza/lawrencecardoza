@@ -50,7 +50,20 @@ A role-based task management system with JWT authentication, dual-database suppo
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lawrencecardoza&theme=github-dark-blue&hide_border=true" />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=lawrencecardoza&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true"
+  />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lawrencecardoza&layout=compact&theme=github_dark&hide_border=true"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=lawrencecardoza&theme=github-dark&hide_border=true"
+  />
 </p>
 
 ---
